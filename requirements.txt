@@ -6,8 +6,8 @@ torchvision==0.16.0
 kaolin==0.16.0
 
 numpy==1.26.0
-huggingface-hub==0.22.2
-diffusers==0.24.0
+huggingface-hub
+diffusers
 accelerate
 transformers==4.39.3
 wandb
