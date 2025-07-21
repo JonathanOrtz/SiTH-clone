@@ -307,4 +307,4 @@ with gr.Blocks(css = ".output-image, .input-image, .image-preview {height: 400px
 
 if __name__ == "__main__":
     demo.queue(max_size=4)
-    demo.launch()
+    demo.launch(share=True)
