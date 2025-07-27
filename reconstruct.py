@@ -17,7 +17,7 @@ from recon.utils.config import parse_options, argparse_to_str
 from recon.datasets.test_dataset import TestFolderDataset
 from recon.models.ops.mesh.load_obj import load_obj
 
-#####################################################
+####################################################
 CANONICAL_TEMPLATE = 'data/smplx_canonical.obj'
 WATERTIGHT_TEMPLATE = 'data/smplx_watertight.pkl'
 ####################################################
